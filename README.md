@@ -1,5 +1,5 @@
 ---
-title: Mcp Client
+title: MCP Client
 emoji: 📊
 colorFrom: indigo
 colorTo: pink
